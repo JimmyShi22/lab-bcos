@@ -1,4 +1,4 @@
-<button type="button">Click Me!</button>
+<a href="#" onclick="console.log('clicked');">click me</a>
 
 ![](docs/images/FISCO_BCOS_Logo.svg)
 
